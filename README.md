@@ -5,9 +5,9 @@
 На тестирование затрачено: 2 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Ошибка при валидации карт Dinners club](https://github.com/urop9xa/credit-card-validator/issues/3)
-* [Ошибка при валидации карт American express и Voyager.](https://github.com/urop9xa/credit-card-validator/issues/2)
-* [Ошибка при валидации карт Visa](https://github.com/urop9xa/credit-card-validator/issues/1)
+* [Ошибка при валидации карт Dinners club](https://github.com/Dima-Melnikov/CreditCardNumberValidator/issues/1#issue-786820189)
+* [Ошибка при валидации карт American express и Voyager.](https://github.com/Dima-Melnikov/CreditCardNumberValidator/issues/2#issue-786820586)
+* [Ошибка при валидации карт Visa](https://github.com/Dima-Melnikov/CreditCardNumberValidator/issues/3#issue-786821108)
 
 ## Описание процесса тестирования
 
